@@ -2,7 +2,7 @@
   "games": [
     {
       "id": "spherical-friend",
-      "name": "Spherical Friend, in 3D",
+      "name": "Spherical Friend, in 3D, except it doesnt work and is crap",
       "description": "Roll your spherical friend around in 3D.",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/spherical-friend.html",
