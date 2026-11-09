@@ -12,10 +12,28 @@
     {
       "id": "scary",
       "name": "Scary",
-      "description": "A horror game. Don't look behind you.",
+      "description": "scary.",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/scary.html",
       "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/scary-banner.png",
+      "run": "index.html"
+    },
+    {
+      "id": "fnaf",
+      "name": "genuinelly just fnaf world",
+      "description": "fnaf world yk.",
+      "version": "1.0",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/fnaf-world.exe",
+      "image": "https://tse4.mm.bing.net/th/id/OIP.Pi83kodSkL_mkLUgv6QDYQHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "run": "index.html"
+    },
+    {
+      "id": "bib",
+      "name": "Worldslop clicker",
+      "description": "click the slop to stop it frmo growing!.",
+      "version": "1.0",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/bibby_glich_shop_upgrades_v2.py",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
       "run": "index.html"
     }
   ]
