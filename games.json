@@ -24,6 +24,7 @@
       "description": "fnaf world yk.",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/fnaf-world.exe",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/fnaf-world-banner.png",
       "run": "fnaf-world.exe"
     },
     {
@@ -32,6 +33,7 @@
       "description": "click the slop to stop it frmo growing!",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/bibby_glich_shop_upgrades_v2.py",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/worldslop-banner.png",
       "run": "bibby_glich_shop_upgrades_v2.py"
     },
     {
@@ -40,7 +42,62 @@
       "description": "the amazing sequal to scary.py",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/scary.py2.html",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/tape-camera-banner.png",
       "run": "index.html"
+    },
+      {
+      "id": "robuck",
+      "name": "robuck",
+      "description": "free robux generator real!",
+      "version": "1.0",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/robux.hta",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
+      "run": "robux.hta"
+    },
+      {
+      "id": "liminal",
+      "name": "liminal scary game OG",
+      "description": "the ORIGINAL scary liminal game made by the beloved toby goodwin",
+      "version": "1.0",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/funny.html",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
+      "run": "index.html"
+    },
+    {
+      "id": "card",
+      "name": "very real balatro",
+      "description": "very real and not a bootleg of balatro",
+      "version": "1.0",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/cardgame.rar",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
+      "run": "balatro.exe"
+    },
+    {
+      "id": "issac",
+      "name": "very real issac",
+      "description": "the binding of issac but made better and by me (totally)",
+      "version": "1.0",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/issac.rar",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
+      "run": "issac-ng.exe"
+    },
+    {
+      "id": "pvz",
+      "name": "pvz",
+      "description": "plants vs zombies made by claude",
+      "version": "1.0",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/pvz.zip",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
+      "run": "index.html"
+    },
+    {
+      "id": "422",
+      "name": "ERROR: 422",
+      "description": "minecraft but updated and made better",
+      "version": "1.0",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/ERROR422.exe",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
+      "run": "ERROR422.exe"
     }
   ]
 }
