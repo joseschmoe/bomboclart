@@ -6,6 +6,7 @@
       "description": "Roll your spherical friend around in 3D.",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/spherical-friend.html",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/spherical-friend-banner.png",
       "run": "index.html"
     },
     {
@@ -14,6 +15,7 @@
       "description": "A horror game. Don't look behind you.",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/scary.html",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/scary-banner.png",
       "run": "index.html"
     }
   ]
