@@ -2,7 +2,7 @@
   "games": [
     {
       "id": "spherical-friend",
-      "name": "Spherical Friend, in 3D, except it doesnt work and is crap",
+      "name": "Spherical Friend, in 3D",
       "description": "Roll your spherical friend around in 3D.",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/spherical-friend.html",
@@ -24,17 +24,15 @@
       "description": "fnaf world yk.",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/fnaf-world.exe",
-      "image": "https://i.pinimg.com/1200x/0b/05/b0/0b05b01b4a9b092491bcb8ebfafcba13.jpg",
-      "run": "index.html"
+      "run": "fnaf-world.exe"
     },
     {
       "id": "bib",
       "name": "Worldslop clicker",
-      "description": "click the slop to stop it frmo growing!.",
+      "description": "click the slop to stop it frmo growing!",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/bibby_glich_shop_upgrades_v2.py",
-      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
-      "run": "index.html"
+      "run": "bibby_glich_shop_upgrades_v2.py"
     },
     {
       "id": "tob",
@@ -42,7 +40,6 @@
       "description": "the amazing sequal to scary.py",
       "version": "1.0",
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/scary.py2.html",
-      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
       "run": "index.html"
     }
   ]
