@@ -104,16 +104,16 @@
       "name": "horse",
       "description": "incase you forgot what a horse is",
       "version": "1.0",
-      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/Horse - Wikipedia.html",
+      "url": "https://raw.githubusercontent.com/joseschmoe/bomboclart/main/horse.html",
       "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
-      "run": "Horse - Wikipedia.html"
+      "run": "horse.html"
     },
     {
       "id": "chess",
       "name": "Chess97",
       "description": "not chess 2, not even chess 3. this is the 97th version of chess",
       "version": "97.0",
-      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/Chess97.html",
+      "url": "https://raw.githubusercontent.com/joseschmoe/bomboclart/main/Chess97.html",
       "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
       "run": "Chess97.html"
     },
@@ -122,7 +122,7 @@
       "name": "Facebook",
       "description": "he is not facebook",
       "version": "like 12 or something",
-      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/facebook.jpg",
+      "url": "https://raw.githubusercontent.com/joseschmoe/bomboclart/main/facebook.jpg",
       "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
       "run": "facebook.jpg"
     }
