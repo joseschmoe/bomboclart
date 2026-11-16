@@ -98,6 +98,33 @@
       "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/ERROR422.exe",
       "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
       "run": "ERROR422.exe"
+    },
+    {
+      "id": "horse",
+      "name": "horse",
+      "description": "incase you forgot what a horse is",
+      "version": "1.0",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/Horse - Wikipedia.html",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
+      "run": "Horse - Wikipedia.html"
+    },
+    {
+      "id": "chess",
+      "name": "Chess97",
+      "description": "not chess 2, not even chess 3. this is the 97th version of chess",
+      "version": "97.0",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/Chess97.html",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
+      "run": "Chess97.html"
+    },
+    {
+      "id": "facey",
+      "name": "Facebook",
+      "description": "he is not facebook",
+      "version": "like 12 or something",
+      "url": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/facebook.jpg",
+      "image": "https://github.com/joseschmoe/bomboclart/releases/download/v1.0/",
+      "run": "facebook.jpg"
     }
   ]
 }
